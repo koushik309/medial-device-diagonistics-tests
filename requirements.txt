@@ -1,0 +1,6 @@
+pytest>=7.0
+pytest-bdd>=6.0
+pytest-cov>=3.0
+pytest-html>=3.0
+pytest-xdist>=2.0
+pytest-mock>=3.0
