@@ -5,7 +5,7 @@ Coverage
 
 A pytest-based testing framework for validating medical diagnostic equipment software, with BDD (Behavior-Driven Development) support.
 
-🏥 Project Overview
+Project Overview
 Tests three core medical diagnostic components:
 
 ECG Analyzer - Heart rhythm and rate analysis
@@ -30,10 +30,9 @@ Getting Started
 Prerequisites
 Python 3.8+
 
-pip
 
 Installation
-bash
+
 git clone https://github.com/koushik309/medical-diagnostics-tests.git
 cd medical-diagnostics-tests
 pip install -r requirements.txt
